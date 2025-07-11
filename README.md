@@ -73,7 +73,7 @@ Here are the screenshots showcasing the SQL queries and output:
 
 Part 1	Part 2	Part 3
 
-![PostgreSQL Query Screenshot](./pgsql1.PNG), ![PostgreSQL Query Screenshot](./pgsql2.PNG), and ![PostgreSQL Query Screenshot](./pgsql3.PNG)
+![PostgreSQL Query Screenshot](./pgsql1.PNG) ![PostgreSQL Query Screenshot](./pgsql2.PNG) ![PostgreSQL Query Screenshot](./pgsql3.PNG)
 
 ---
 ## 📌 Tools Used
