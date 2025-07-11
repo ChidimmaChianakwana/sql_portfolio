@@ -73,7 +73,7 @@ Here are the screenshots showcasing the SQL queries and output:
 
 Part 1	Part 2	Part 3
 
-![PostgreSQL Query Screenshot](./pgsql1.PNG), ![PostgreSQL Query Screenshot](./pgsql3.PNG), and ![PostgreSQL Query Screenshot](./pgsql1.PNG)
+![PostgreSQL Query Screenshot](./pgsql1.PNG), ![PostgreSQL Query Screenshot](./pgsql2.PNG), and ![PostgreSQL Query Screenshot](./pgsql3.PNG)
 
 ---
 ## 📌 Tools Used
@@ -82,6 +82,7 @@ PostgreSQL for SQL execution
 pgAdmin for GUI-based query execution
 
 Sakila Sample Database for real-world data modeling
+
 ---
 ## 📬 Feedback
 Feel free to fork this repo, suggest improvements, or reach out if you have questions or suggestions.
